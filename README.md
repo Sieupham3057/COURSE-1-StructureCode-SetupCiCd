@@ -21,3 +21,6 @@ Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
 - Bài 5: Setup Ci/Cd: (Private)
 - 
 
+## Students participate in the course:
+  1. HoangChan
+  2. 
