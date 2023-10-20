@@ -5,9 +5,7 @@
                         * Bank: MB Bank
                         * Account Number: 0972631178
                         * Message: <YourEmail>-<YourPhone>-<CourseId=DL-301>
-  ## Information:
- - Youtube Channel: https://www.youtube.com/channel/UCCOP-RoCEXCrpDWH12-Nn5w
- - Facebook Group: https://www.facebook.com/groups/342670156801353
+
   ## Content:
   
 Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
