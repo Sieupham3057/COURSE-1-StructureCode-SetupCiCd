@@ -24,4 +24,5 @@ Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
 ## Students participated in the course:
   1. HoangChan
   2. Nguyen Truong Nhat
-  3. 
+  3. Nguyen Xuan Quang
+  4. 
