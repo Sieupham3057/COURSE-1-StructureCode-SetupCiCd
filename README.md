@@ -14,7 +14,7 @@ Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
     
 - Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI)
     
-- Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor (Private)
+- Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw)
     
 - Bài 4: Build Structure Code Base + Coding Convention + UnitTest + GIT + Deploy Manual (Private)
     
