@@ -19,7 +19,7 @@ Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
 - Bài 4: Build Structure Code Base + Coding Convention + UnitTest + GIT + Deploy Manual (Private)
     
 - Bài 5: Setup Ci/Cd: (Private)
-- 
+- Bài 6: Deploy to Docker
 
 ## Students participated in the course:
   1. HoangChan
