@@ -10,7 +10,7 @@
   
 Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
     
-- Bài 1: Tổng Quan Về Structure Code: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s)
+- Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s)
     
 - Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI)
     
