@@ -16,11 +16,27 @@ Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
     
 - Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw)
     
-- Bài 4: Build Structure Code Base + Coding Convention + UnitTest + GIT + Deploy Manual (Private)
-- Bài 4.1: Setup Database and structure code
-- Bài 5: Setup Ci/Cd: (Private)
-- Bài 6: Deploy to Docker
-- Bài 7: Masstransit với RabbitMQ: Powerfull
+- Bài 4: Build Structure Code Base
+  + Coding Convention
+  + UnitTest
+  + GIT
+  + Deploy Manual (Private)
+
+- Bài 5: Structure Code Chuẩn Hóa:
+  + Database setup and configure with identity
+  + Loging
+  + Global Exception Handler
+  + Common Result - Common Error
+  + ...
+
+- Bài 6: Setup Ci/Cd: (Private)
+- Bài 7: Deploy to Docker
+- Bài 8: Masstransit với RabbitMQ: Powerfull
+  + Publish Event
+  + Send Command
+  + PipeFilters: ContractValidatorFilter - BusinessValidatorFilter
+  + PipeObservers: LoggingConsumeObserver - LoggingPublishObserver - LoggingReceiveObserver - LoggingSendObserver
+  + Correlation
 
 ## Students participated in the course:
   1. HoangChan
