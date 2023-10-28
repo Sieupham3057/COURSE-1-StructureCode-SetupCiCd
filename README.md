@@ -24,7 +24,7 @@
   + GIT
   + Deploy Manual (Private)
 
-- Bài 5: Structure Code Chuẩn Hóa:
+- Bài 5: Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
   + Database setup and configure with identity
   + Loging
   + Global Exception Handler
@@ -33,7 +33,7 @@
 
 - Bài 6: Setup Ci/Cd: (Private)
 - Bài 7: Deploy to Docker
-- Bài 8: Masstransit với RabbitMQ: Powerfull
+- Bài 8: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
   + Publish Event
   + Send Command
   + PipeFilters: ContractValidatorFilter - BusinessValidatorFilter
