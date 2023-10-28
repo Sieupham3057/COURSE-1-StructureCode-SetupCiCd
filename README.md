@@ -1,5 +1,5 @@
 # CourseID: "DL-301" 
-# StructureCode-SetupCiCd : "Tuition for the course: 3.200.000"
+# StructureCode-SetupCiCd : "Học Phí: 3.800.000"
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
                         * Bank: MB Bank
