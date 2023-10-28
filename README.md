@@ -8,7 +8,9 @@
 
   ## Content:
   
-Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
+<b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
+
+<b>RabbitMQ với Masstransit và Tổng Quan - Chuẩn Hóa Structure Code:</b> https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
     
 - Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s)
     
@@ -46,3 +48,4 @@ Demo tổng quan: (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
   5. Nguyen Xuan Hoang
   6. Tran Van Lam
   7. Vu Bao
+  8. Anh The Dang
