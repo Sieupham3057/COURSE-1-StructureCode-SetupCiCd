@@ -1,4 +1,6 @@
 # CourseID: "DL-301" 
+     Khóa học tập trung vào mục đích và nội dung bài học nên số lượng Video tuy ít nhưng thời lượng dài và kiến thức cô đọng 👌👌👌
+     Bài học đều hơn 1 tiếng, có bài học 2 tiếng, 2 tiếng rưỡi ... Đi sâu vào bản chất cốt lõi vấn đề 💕💕💕
 # StructureCode-SetupCiCd : "Học Phí: 3.800.000"
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
