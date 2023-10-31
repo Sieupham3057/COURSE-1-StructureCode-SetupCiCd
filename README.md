@@ -47,7 +47,7 @@
 - ### Bài 8: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
  
 ```diff
-! 👉👉👉 <h3>Chỉ Dành Cho 15 Người Đăng Ký Đầu Tiên được join vào phần 8 Masstransit với RabbitMQ</h3> 👍👍👍
+! 👉👉 <h3>Chỉ Dành Cho 15 Người Đăng Ký Đầu Tiên được join vào phần 8 Masstransit với RabbitMQ</h3> 👍👍
 ```
   + Publish Event
   + Send Command
