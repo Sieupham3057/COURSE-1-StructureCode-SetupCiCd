@@ -35,7 +35,7 @@
   + Loging with serilog
   + Search, Sort with multi columns, paging: https://www.youtube.com/watch?v=46fs-OSdddk
   + ...
-  + <h4>=>> 👉👉👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍👍👍</h4>
+  + <h2>=>> 👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍</h2>
 
 
 - ### Bài 6: Setup Ci/Cd: (Private)
