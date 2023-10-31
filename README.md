@@ -10,37 +10,51 @@
 
   ## Content:
   
-<b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
-
-<b>RabbitMQ với Masstransit và Tổng Quan - Chuẩn Hóa Structure Code:</b> https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
     
-- Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s)
+- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s)
     
-- Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI)
+- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI)
     
-- Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw)
+- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw)
     
-- Bài 4: Build Structure Code Base
+- ### Bài 4: Build Structure Code Base
   + Coding Convention
-  + UnitTest
+  + UnitTest Architecture Test
   + GIT
   + Deploy Manual (Private)
 
-- Bài 5: Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+- ### Bài 5: Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+  + Create solution with Clean Architecture
+  + Setup Coding Convention + Write Architecture text
   + Database setup and configure with identity
-  + Loging
+  + Loging to console and file with serilog
   + Global Exception Handler
   + Common Result - Common Error
+  + Api versioning
+  + Loging with serilog
+  + Search, Sort with multi columns, paging: https://www.youtube.com/watch?v=46fs-OSdddk
   + ...
+  + <h4>=>> 👉👉👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍👍👍</h4>
 
-- Bài 6: Setup Ci/Cd: (Private)
-- Bài 7: Deploy to Docker
-- Bài 8: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+
+- ### Bài 6: Setup Ci/Cd: (Private)
+ + Setup lên từng môi trường riêng biệt: Development, Production với cấu hình khác nhau
+ + Setup backup lúc deploy lên môi trường Production
+ + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
+   
+- ### Bài 7: Deploy to Docker
+- ### Bài 8: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+ 
+```diff
+! 👉👉👉 <h3>Chỉ Dành Cho 15 Người Đăng Ký Đầu Tiên được join vào phần 8 Masstransit với RabbitMQ</h3> 👍👍👍
+```
   + Publish Event
   + Send Command
   + PipeFilters: ContractValidatorFilter - BusinessValidatorFilter
   + PipeObservers: LoggingConsumeObserver - LoggingPublishObserver - LoggingReceiveObserver - LoggingSendObserver
   + Correlation
+  + ...
 
 ## Students participated in the course:
   1. HoangChan
@@ -53,3 +67,16 @@
   8. Anh The Dang
   9. TB (Student don't want to mention here)
   10. Do Nghia
+  11. 
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
