@@ -10,7 +10,8 @@
 
   ## Content:
   
-## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
+## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0) ⭐
+## Demo Structure Code: https://www.youtube.com/watch?v=M-sa4zIsAuE ⭐
     
 - ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE)
     
