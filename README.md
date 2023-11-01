@@ -12,24 +12,26 @@
   
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0)
     
-- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s)
+- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE)
     
-- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI)
+- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI) (DONE)
     
-- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw)
+- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw) (DONE)
     
-- ### Bài 4: Build Structure Code Base
+- ### Bài 4: Build Structure Code Base (DONE)
   + Coding Convention
   + UnitTest Architecture Test
   + GIT
   + Deploy Manual (Private)
 
-- ### Bài 5: Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+- ### Bài 5, Bài 6, Bài 7: Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg (DONE)
   + Create solution with Clean Architecture
   + Setup Coding Convention + Write Architecture text
   + Database setup and configure with identity
   + Loging to console and file with serilog
   + Global Exception Handler
+  + Global Transaction
+  + Execute Stratage
   + Common Result - Common Error
   + Api versioning
   + Loging with serilog
@@ -38,16 +40,16 @@
   + <h2>=>> 👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍</h2>
 
 
-- ### Bài 6: Setup Ci/Cd: (Private)
+- ### Bài 8: Setup Ci/Cd: (Private)
  + Setup lên từng môi trường riêng biệt: Development, Production với cấu hình khác nhau
  + Setup backup lúc deploy lên môi trường Production
  + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
    
-- ### Bài 7: Deploy to Docker
-- ### Bài 8: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+- ### Bài 9: Deploy to Docker
+- ### Bài 10: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
  
 ```diff
-! 👉👉 <h3>Chỉ Dành Cho 15 Người Đăng Ký Đầu Tiên được join vào phần 8 Masstransit với RabbitMQ</h3> 👍👍
+! 👉👉 <h3>Chỉ Dành Cho 15 Người Đăng Ký Đầu Tiên được join vào phần 10 Masstransit với RabbitMQ</h3> 👍👍
 ```
   + Publish Event
   + Send Command
