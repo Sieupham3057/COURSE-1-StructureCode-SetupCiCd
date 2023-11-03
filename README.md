@@ -64,12 +64,14 @@
   2. Nguyen Truong Nhat
   3. Nguyen Xuan Quang
   4. Binh Le Huy
-  5. Nguyen Xuan Hoang
-  6. Tran Van Lam
-  7. Vu Bao
-  8. Anh The Dang
-  9. TB (Student don't want to mention here)
-  10. Do Nghia
-  11. Nguyen Dang
-  12. Nguyen Ba Tu
-  13. 
+  5. Vu Bao
+  6. Anh The Dang
+  7. TB (Student don't want to mention here)
+  8. Do Nghia
+  9. Nguyen Dang
+  10. Nguyen Ba Tu
+  11. DuongMinh
+  12. NgocTu
+  13. DangThang
+  14. VanDuc
+  15. 
