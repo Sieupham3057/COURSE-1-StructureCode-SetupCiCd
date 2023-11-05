@@ -40,13 +40,20 @@
   + ...
   + <h2>=>> 👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍</h2>
 
+  - ### Bài 8: Structure Code Diagram, Synchronous Programing, CommandBus-QueryBus-EventBus-
+    + Structure Code Diagram
+    + Synchronous Programing 👍
+    + Publish multi event ✌
+    + CommandBus - QueryBus - EventBus 👌
+    + DomainEvent - IntegrationEvent 🤞
+    + ...
 
-- ### Bài 8: Setup Ci/Cd: (Private)
+- ### Bài 9: Setup Ci/Cd: (Private)
  + Setup lên từng môi trường riêng biệt: Development, Production với cấu hình khác nhau
  + Setup backup lúc deploy lên môi trường Production
  + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
+ + Deploy to Docker
    
-- ### Bài 9: Deploy to Docker
 - ### Bài 10: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
  
 ```diff
