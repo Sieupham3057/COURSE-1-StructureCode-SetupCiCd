@@ -17,19 +17,19 @@
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0) ⭐
 ## Demo Structure Code: https://www.youtube.com/watch?v=M-sa4zIsAuE ⭐
     
-- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE) - (01:13)
+- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE)  ✔
     
-- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI) (DONE) - (01:27)
+- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI) (DONE)  ✔
     
-- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw) (DONE) - (01:38)
+- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw) (DONE)  ✔
     
-- ### Bài 4: Build Structure Code Base (DONE) - (01:50)
+- ### Bài 4: Build Structure Code Base (DONE)  ✔
   + Coding Convention
   + UnitTest Architecture Test
   + GIT
   + Deploy Manual (Private)
 
-- ### Bài 5 (02:29), Bài 6 (01:07), Bài 7 (01:05): Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg (DONE)
+- ### Bài 5 (02:29), Bài 6 (01:07), Bài 7 (01:05): Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg (DONE)  ✔
   + Create solution with Clean Architecture
   + Setup Coding Convention + Write Architecture text
   + Database setup and configure with identity
@@ -44,7 +44,7 @@
   + ...
   + <h2>=>> 👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍</h2>
 
-  - ### Bài 8: Structure Code Diagram, Synchronous Programing, CommandBus-QueryBus-EventBus (Done) - (01:54)
+  - ### Bài 8: Structure Code Diagram, Synchronous Programing, CommandBus-QueryBus-EventBus (DONE)  ✔
     + Structure Code Diagram
     + Synchronous Programing 👍
     + Publish multi event ✌
@@ -52,7 +52,7 @@
     + DomainEvent - IntegrationEvent 🤞
     + ...
 
-- ### Bài 9: Setup Ci/Cd: (Done) - (02:00)
+- ### Bài 9: Setup Ci/Cd: (DONE)  ✔
  + Setup lên từng môi trường riêng biệt: Development, Production với cấu hình khác nhau
  + Setup backup lúc deploy lên môi trường Production
  + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
@@ -89,4 +89,5 @@
   16. Nguyen Thanh Anh
   17. Nguyen Van Hieu
   18. Nguyen Thanh
-  19. 
+  19. Tran Dinh Hoang
+  20. 
