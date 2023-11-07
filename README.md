@@ -1,6 +1,10 @@
 # CourseID: "DL-301" 
      Khóa học tập trung vào mục đích và nội dung bài học nên số lượng Video tuy ít nhưng thời lượng dài và kiến thức cô đọng 👌👌👌
      Bài học đều hơn 1 tiếng, có bài học 2 tiếng, 2 tiếng rưỡi ... Đi sâu vào bản chất cốt lõi vấn đề 💕💕💕
+     👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
+          Bài 1: ⌚(01:13)     Bài 2: ⌚(01:27)     Bài 3: ⌚(01:38)     Bài 4: ⌚(01:50)
+          Bài 5: ⌚(02:29)     Bài 6: ⌚(01:07)     Bài 7: ⌚(01:05)     Bài 8: ⌚(01:54)
+          Bài 9: ⌚(02:00)
 # StructureCode-SetupCiCd : "Học Phí: 3.800.000"
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
@@ -13,19 +17,19 @@
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0) ⭐
 ## Demo Structure Code: https://www.youtube.com/watch?v=M-sa4zIsAuE ⭐
     
-- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE)
+- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE) - (01:13)
     
-- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI) (DONE)
+- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI) (DONE) - (01:27)
     
-- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw) (DONE)
+- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw) (DONE) - (01:38)
     
-- ### Bài 4: Build Structure Code Base (DONE)
+- ### Bài 4: Build Structure Code Base (DONE) - (01:50)
   + Coding Convention
   + UnitTest Architecture Test
   + GIT
   + Deploy Manual (Private)
 
-- ### Bài 5, Bài 6, Bài 7: Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg (DONE)
+- ### Bài 5 (02:29), Bài 6 (01:07), Bài 7 (01:05): Structure Code Chuẩn Hóa: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg (DONE)
   + Create solution with Clean Architecture
   + Setup Coding Convention + Write Architecture text
   + Database setup and configure with identity
@@ -40,7 +44,7 @@
   + ...
   + <h2>=>> 👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍</h2>
 
-  - ### Bài 8: Structure Code Diagram, Synchronous Programing, CommandBus-QueryBus-EventBus-
+  - ### Bài 8: Structure Code Diagram, Synchronous Programing, CommandBus-QueryBus-EventBus (Done) - (01:54)
     + Structure Code Diagram
     + Synchronous Programing 👍
     + Publish multi event ✌
@@ -48,7 +52,7 @@
     + DomainEvent - IntegrationEvent 🤞
     + ...
 
-- ### Bài 9: Setup Ci/Cd: (Private)
+- ### Bài 9: Setup Ci/Cd: (Done) - (02:00)
  + Setup lên từng môi trường riêng biệt: Development, Production với cấu hình khác nhau
  + Setup backup lúc deploy lên môi trường Production
  + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
