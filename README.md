@@ -17,13 +17,13 @@
 ## <b>Demo tổng quan:</b> (https://www.youtube.com/watch?v=3QqqXJd1Yn0) ⭐
 ## Demo Structure Code: https://www.youtube.com/watch?v=M-sa4zIsAuE ⭐
     
-- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE)  ✔
+- ### Bài 1: Tổng Quan Về Structure Code - Clean architecture: (https://www.youtube.com/watch?v=RvR8erWwMZU&t=953s) (DONE) ⌚(01:13) ✔
     
-- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI) (DONE)  ✔
+- ### Bài 2: Chi Tiết Về Structure Code & Kinh nghiệm thiết kế Database: (https://www.youtube.com/watch?v=LaG6dKN4cjI) (DONE) ⌚(01:27) ✔
     
-- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw) (DONE)  ✔
+- ### Bài 3: Kinh nghiệm Refactor và Review Source Code & Sử Dụng Benchmark để đo performance sau khi Refactor: (https://www.youtube.com/watch?v=lKlmoMNwjRw) (DONE) ⌚(01:38) ✔
     
-- ### Bài 4: Build Structure Code Base (DONE)  ✔
+- ### Bài 4: Build Structure Code Base (DONE) ⌚(01:50) ✔
   + Coding Convention
   + UnitTest Architecture Test
   + GIT
@@ -44,7 +44,7 @@
   + ...
   + <h2>=>> 👉 Structure Code Base Hoàn Chỉnh Để Các Bạn Apply Luôn Vào Dự Án Ở Cty 👍</h2>
 
-  - ### Bài 8: Structure Code Diagram, Synchronous Programing, CommandBus-QueryBus-EventBus (DONE)  ✔
+  - ### Bài 8: Structure Code Diagram, Synchronous Programing, CommandBus-QueryBus-EventBus (DONE) ⌚(01:54) ✔
     + Structure Code Diagram
     + Synchronous Programing 👍
     + Publish multi event ✌
@@ -52,7 +52,7 @@
     + DomainEvent - IntegrationEvent 🤞
     + ...
 
-- ### Bài 9: Setup Ci/Cd: (DONE)  ✔
+- ### Bài 9: Setup Ci/Cd: (DONE) ⌚(02:00) ✔
  + Setup lên từng môi trường riêng biệt: Development, Production với cấu hình khác nhau
  + Setup backup lúc deploy lên môi trường Production
  + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
