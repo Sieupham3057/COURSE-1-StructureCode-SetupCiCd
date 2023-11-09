@@ -57,6 +57,11 @@
  + Setup backup lúc deploy lên môi trường Production
  + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
  + Deploy to Docker
+
+- ### Bài 10: Using Dapper for Query Side
+  + Repository + UnitOfWork in dapper
+  + Work with multi api versioning
+  + ...
    
 - ### Bài 10: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
  
