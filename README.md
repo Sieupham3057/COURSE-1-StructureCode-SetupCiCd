@@ -58,7 +58,7 @@
  + Deploy lên AzureApp sử dụng AzureCli và quản lý việc backup trước khi publish lên Azure (Production Environment)
  + Deploy to Docker
 
-- ### Bài 10: Using Dapper for Query Side
+- ### Bài 10: Using Dapper for Query Side (DONE) ⌚(01:13) ✔
   + Repository + UnitOfWork in dapper
   + Work with multi api versioning
   + ...
