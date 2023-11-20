@@ -102,5 +102,5 @@
   24. Huu Chinh
   25. Hoang Le
   26. Hoc Van
-  27. Lam Vinh
+  27. Kim Toan
   28. 
