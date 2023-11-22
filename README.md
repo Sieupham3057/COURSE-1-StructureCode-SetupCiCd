@@ -110,5 +110,5 @@
   26. Hoc Van
   27. Lam Vinh
   28. Kim Toan
-  29. Phuong Nguyen Ich
+  29. Phuong Nguyen
   30. 
