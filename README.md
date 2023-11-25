@@ -112,4 +112,5 @@
   28. Kim Toan
   29. Phuoc Nguyen
   30. Hieu Nguyen
-  31. 
+  31. Hoang Duy
+  32. 
