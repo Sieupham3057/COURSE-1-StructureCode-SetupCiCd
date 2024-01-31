@@ -4,7 +4,8 @@
      👉 Thời lượng mỗi bài học như sau: ⌚⌚⌚👍
           Bài 1: ⌚(01:13)     Bài 2: ⌚(01:27)     Bài 3: ⌚(01:38)     Bài 4: ⌚(01:50)
           Bài 5: ⌚(02:29)     Bài 6: ⌚(01:07)     Bài 7: ⌚(01:05)     Bài 8: ⌚(01:54)
-          Bài 9: ⌚(02:00)     Bài 10:⌚(01:13)     Bài 11:⌚(00:43)
+          Bài 9: ⌚(02:00)     Bài 10:⌚(01:13)     Bài 11:⌚(00:43)     Bài 12:⌚(00:51)
+          Bài 13:⌚(01:12)
 # StructureCode-SetupCiCd : Học Phí: "4.200.000"
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
@@ -68,8 +69,12 @@
   + Triển khai versioning với Minimal API
   + Sử dụng Carter library cho Minimal API
   + ...
+    
+- ### Bài 12⌚(00:51) ✔, Bài 13⌚(01:12) ✔: Build Angular App (DONE) 
+  + Build Structure Code for Backend With Angular
+  + Apply Admin Template into Angular Application
    
-- ### Bài 12: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
+- ### Bài 14: Masstransit với RabbitMQ: Powerfull: https://www.youtube.com/watch?v=rR4wjfcibTA&lc=UgyYDeTs-fme4UDSLaJ4AaABAg
  
 ```diff
 ! 👉👉 <h3>Chỉ Dành Cho 20 Người Đăng Ký Đầu Tiên được join vào phần 10 Masstransit với RabbitMQ</h3> 👍👍
