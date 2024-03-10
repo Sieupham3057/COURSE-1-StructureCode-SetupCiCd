@@ -87,40 +87,4 @@
   + ...
 
 ## Students participated in the course:
-  1. HoangChan
-  2. Nguyen Truong Nhat
-  3. Nguyen Xuan Quang
-  4. Binh Le Huy
-  5. Vu Bao
-  6. Anh The Dang
-  7. TB (Student don't want to mention here)
-  8. Do Nghia
-  9. Nguyen Dang
-  10. Nguyen Ba Tu
-  11. DuongMinh
-  12. NgocTu
-  13. DangThang
-  14. VanDuc
-  15. Nguyen Ngoc Phu
-  16. Nguyen Thanh Anh
-  17. Nguyen Van Hieu
-  18. Nguyen Thanh
-  19. Tran Dinh Hoang
-  20. Duong Nhat Quang
-  21. Truong
-  22. Dinh Duc Thuan
-  23. Duong Nhat Quang
-  24. Huu Chinh
-  25. Hoang Le
-  26. Hoc Van
-  27. Lam Vinh
-  28. Kim Toan
-  29. Phuoc Nguyen
-  30. Hieu Nguyen
-  31. Hoang Duy
-  32. Huy Đạt
-  33. HoDangPhuc
-  34. KhucXuanHao
-  35. DuongPhuongDuy
-  36. DoDucKhang
-  37. 
+  
