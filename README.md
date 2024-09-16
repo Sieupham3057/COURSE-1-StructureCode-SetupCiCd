@@ -6,7 +6,7 @@
           Bài 5: ⌚(02:29)     Bài 6: ⌚(01:07)     Bài 7: ⌚(01:05)     Bài 8: ⌚(01:54)
           Bài 9: ⌚(02:00)     Bài 10:⌚(01:13)     Bài 11:⌚(00:43)     Bài 12:⌚(00:51)
           Bài 13:⌚(01:12)
-# StructureCode-SetupCiCd : Học Phí: ~"4.200.000"~ Discount 30% = "2.940.000"
+# StructureCode-SetupCiCd : Học Phí: "4.200.000" ~Discount 30% = "2.940.000"~
   ## Bank Informations:  
                         * Name: TRAN VAN DONG 
                         * Bank: MB Bank
