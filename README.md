@@ -10,7 +10,7 @@
   ## Bank Informations:  
 <img src="https://github.com/Sieupham3057/ByMeACoffee/blob/main/BIDV.PNG" alt="..." width="250" />
 
-# Nội Dung Đăng Ký: "YourEmail-CourseId-DL-301"
+# Nội Dung Chuyển Khoản: "YourEmail-CourseId-DL-301"
 
   ## Content:
   
