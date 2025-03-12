@@ -8,10 +8,9 @@
           Bài 13:⌚(01:12)
 # StructureCode-SetupCiCd : Học Phí: "4.200.000" ~Discount 40% = "2.520.000"~
   ## Bank Informations:  
-                        * Name: TRAN VAN DONG 
-                        * Bank: MB Bank
-                        * Account Number: 0972631178
-                        * Message: <YourEmail>-<YourPhone>-<CourseId=DL-301>
+<img src="https://github.com/Sieupham3057/ByMeACoffee/blob/main/BIDV.PNG" alt="..." width="250" />
+
+# Nội Dung Đăng Ký: "YourEmail-CourseId-DL-301"
 
   ## Content:
   
